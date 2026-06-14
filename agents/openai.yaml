@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vertical to Horizontal"
+  short_description: "Turn vertical videos into 16:9 highlights"
+  default_prompt: "Use $make-vertical-into-horizontal to make a vertical video into a horizontal 16:9 highlight with blurred background."
